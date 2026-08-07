@@ -1,12 +1,12 @@
 body {
     background-color: rgb(255, 255, 255);
-    color: rgb(143, 0, 0);
+    color: rgb(196, 94, 94);
     font-family: Arial, sans-serif;
 }
 
 header {
     background-color: rgb(255, 217, 0);
-    color: rgb(43, 117, 255);
+    color: rgb(43, 255, 191);
     text-align: center;
     padding: 30px;
 }
@@ -30,7 +30,7 @@ main {
 }
 
     section {
-        background-color: rgb(250, 99, 99);
+        background-color: rgb(99, 159, 250);
         margin: 20px 0;
         padding: 20px;
         border-radius: 12px;
