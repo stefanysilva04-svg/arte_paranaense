@@ -23,3 +23,29 @@ p {
     font-size: 18px;
     line-height: 1.6;
 }
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+    section {
+        background-color: rgb(250, 99, 99);
+        margin: 20px 0;
+        padding: 20px;
+        border-radius: 12px;
+    }
+
+    img{
+        width:  100%;
+        display: block;
+        margin: auto;
+        border- radius: 12px;
+    
+    }
+
+    figcaption{
+        text-aling: 14px;
+        color: #555555;
+        maegin-top: 8px;
+    }
