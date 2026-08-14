@@ -2,6 +2,7 @@ body {
     background-color: rgb(255, 255, 255);
     color: rgb(196, 94, 94);
     font-family: Arial, sans-serif;
+    margin: 0,
 }
 
 header {
@@ -23,7 +24,22 @@ p {
     font-size: 18px;
     line-height: 1.6;
 }
+nav  {
+    margin-top: 20px;
+}
 
+ nav a {
+    color:rgb(211, 221, 221)
+    text-decoration none;
+    backgroun-color: #9b4d83
+padding 10px 15px;
+border-radius: 8px;
+margin: inline-block;
+ }
+
+  nav a:hover {
+    background-color: rgb(116, 38, 38);
+  }
 main {
     width: 80%;
     margin: auto;
@@ -49,3 +65,24 @@ main {
         color: #555555;
         margin-top: 8px;
     }
+
+    card {
+
+   background-color: antiquewhite;
+   padding: 15px;
+   margin: 15px 0;
+   borer-left: 6px solid #6b2d5c;
+   border-radius: 10px;
+    }
+
+    card h3 {
+   margin-top: 0;
+    }
+    footer {
+        background-color:rgb(189, 126, 126)
+        color white;
+        text-align: certer;
+        pading: 20px;
+        margin-top: 30px;
+    }
+    
