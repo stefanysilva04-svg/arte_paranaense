@@ -6,8 +6,8 @@ body {
 }
 
 header {
-    background-color: rgb(255, 217, 0);
-    color: rgb(43, 255, 191);
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 30px;
 }
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 p {
@@ -32,7 +32,7 @@ nav {
 nav a {
     color: rgb(211, 221, 221);
     text-decoration: none;
-    background-color: #9b4d83;
+    background-color: #ff1f1f;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
