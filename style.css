@@ -1,12 +1,12 @@
 body {
     background-color: rgb(0, 0, 0);
-    color: rgb(118, 196, 94);
+    color: rgb(41, 83, 28);
     font-family: Arial, sans-serif;
     margin: 0,
 }
 
 header {
-    background-color: rgb(5, 145, 0);
+    background-color: rgb(28, 119, 25);
     color: rgb(231, 235, 231);
     text-align: center;
     padding: 30px;
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color: rgb(0, 0, 0);
+    color: rgb(81, 105, 66);
 }
 
 p {
@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: rgb(150, 41, 41);
+    background-color: rgb(0, 0, 0);
 }
 
 main {
@@ -85,7 +85,7 @@ figcaption {
 }
 
 footer {
-    background-color: rgb(189, 126, 126);
+    background-color: rgb(0, 0, 0);
     color: white;
     text-align: center;
     padding: 20px;
