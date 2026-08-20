@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(237, 238, 237) 24;
+    background-color: rgb(21, 94, 21) 24;
     color: rgb(247, 250, 246);
     font-family: Arial, sans-serif;
     margin: 0,
@@ -7,7 +7,7 @@ body {
 
 header {
     background-color: rgb(251, 253, 251);
-    color: rgb(250, 252, 250);
+    color: rgb(21, 94, 21);
     text-align: center;
     padding: 30px;
 }
