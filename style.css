@@ -6,8 +6,8 @@ body {
 }
 
 header {
-    background-color: rgb(153, 219, 151);
-    color: rgb(22, 97, 22);
+    background-color: rgb(26, 83, 25);
+    color: rgb(129, 196, 129);
     text-align: center;
     padding: 30px;
 }
@@ -30,9 +30,9 @@ nav {
 }
 
 nav a {
-    color: rgb(20, 90, 34);
+    color: rgb(165, 230, 178);
     text-decoration: none;
-    background-color: #78c271;
+    background-color: #1f521a;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
