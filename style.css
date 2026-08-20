@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(20, 194, 4) 24;
+    background-color: rgb(105, 189, 98) 24;
     color: rgb(41, 83, 28);
     font-family: Arial, sans-serif;
     margin: 0,
@@ -7,7 +7,7 @@ body {
 
 header {
     background-color: rgb(28, 119, 25);
-    color: rgb(67, 192, 67);
+    color: rgb(45, 156, 45);
     text-align: center;
     padding: 30px;
 }
@@ -30,9 +30,9 @@ nav {
 }
 
 nav a {
-    color: rgb(5, 168, 68);
+    color: rgb(13, 196, 53);
     text-decoration: none;
-    background-color: #265300;
+    background-color: #6da83d;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
@@ -86,7 +86,7 @@ figcaption {
 
 footer {
     background-color: rgb(16, 61, 2);
-    color: rgb(67, 155, 8);
+    color: rgb(251, 253, 250);
     text-align: center;
     padding: 20px;
     margin-top: 30px;
