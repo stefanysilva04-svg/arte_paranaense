@@ -1,13 +1,13 @@
 body {
-    background-color: rgb(216, 123, 17) 24;
+    background-color: rgb(166, 235, 145) 24;
     color: rgb(34, 100, 16);
     font-family: Arial, sans-serif;
     margin: 0,
 }
 
 header {
-    background-color: rgb(58, 134, 57);
-    color: rgb(19, 68, 19);
+    background-color: rgb(13, 73, 12);
+    color: rgb(114, 209, 114);
     text-align: center;
     padding: 30px;
 }
@@ -73,10 +73,10 @@ figcaption {
 
 .card {
 
-    background-color: rgb(247, 248, 247);
+    background-color: rgb(28, 104, 28);
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid #20691d;
+    border-left: 6px solid #8ed38b;
     border-radius: 10px;
 }
 
