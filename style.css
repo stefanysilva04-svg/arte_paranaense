@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: rgb(28, 119, 25);
+    background-color: rgb(153, 219, 151);
     color: rgb(61, 131, 61);
     text-align: center;
     padding: 30px;
@@ -49,7 +49,7 @@ main {
 }
 
 section {
-    background-color: rgb(33, 100, 16);
+    background-color: rgb(78, 151, 60);
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
