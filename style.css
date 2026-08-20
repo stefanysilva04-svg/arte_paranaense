@@ -30,7 +30,7 @@ nav {
 }
 
 nav a {
-    color: rgb(211, 221, 221);
+    color: rgb(5, 168, 68);
     text-decoration: none;
     background-color: #265300;
     padding: 10px 15px;
@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: rgb(241, 237, 237);
+    background-color: rgb(61, 226, 55);
 }
 
 main {
@@ -85,8 +85,8 @@ figcaption {
 }
 
 footer {
-    background-color: rgb(200, 255, 183);
-    color: white;
+    background-color: rgb(16, 61, 2);
+    color: rgb(67, 155, 8);
     text-align: center;
     padding: 20px;
     margin-top: 30px;
