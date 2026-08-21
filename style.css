@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color: rgb(239, 241, 237);
+    color: rgb(178, 238, 148);
 }
 
 p {
@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: rgb(249, 252, 249);
+    background-color: rgb(178, 238, 148);
 }
 
 main {
@@ -86,7 +86,7 @@ figcaption {
 
 footer {
     background-color: rgb(21, 94, 21);
-    color: rgb(251, 253, 250);
+    color: rgb(178, 238, 148);
     text-align: center;
     padding: 20px;
     margin-top: 30px;
