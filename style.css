@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: rgb(97, 146, 72);
+    background-color: rgb(147, 192, 125);
     color: rgb(72, 173, 72);
     text-align: center;
     padding: 30px;
@@ -85,7 +85,7 @@ figcaption {
 }
 
 footer {
-    background-color: rgb(117, 207, 117);
+    background-color: rgb(255, 255, 255);
     color: rgb(107, 179, 71);
     text-align: center;
     padding: 20px;
