@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(99, 209, 99) 24;
+    background-color: rgb(76, 182, 76) 24;
     color: rgb(247, 250, 246);
     font-family: Arial, sans-serif;
     margin: 0,
@@ -7,7 +7,7 @@ body {
 
 header {
     background-color: rgb(178, 238, 148);
-    color: rgb(79, 184, 79);
+    color: rgb(66, 151, 66);
     text-align: center;
     padding: 30px;
 }
@@ -30,7 +30,7 @@ nav {
 }
 
 nav a {
-    color: rgb(54, 185, 54);
+    color: rgb(57, 167, 57);
     text-decoration: none;
     background-color: #f6faf6;
     padding: 10px 15px;
@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: rgb(178, 238, 148);
+    background-color: rgb(157, 235, 118);
 }
 
 main {
@@ -86,7 +86,7 @@ figcaption {
 
 footer {
     background-color: rgb(49, 145, 49);
-    color: rgb(178, 238, 148);
+    color: rgb(98, 175, 60);
     text-align: center;
     padding: 20px;
     margin-top: 30px;
