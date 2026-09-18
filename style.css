@@ -7,7 +7,7 @@ body {
 
 header {
     background-color: rgb(178, 238, 148);
-    color: rgb(21, 94, 21);
+    color: rgb(79, 184, 79);
     text-align: center;
     padding: 30px;
 }
@@ -30,7 +30,7 @@ nav {
 }
 
 nav a {
-    color: rgb(21, 94, 21);
+    color: rgb(54, 185, 54);
     text-decoration: none;
     background-color: #f6faf6;
     padding: 10px 15px;
@@ -85,7 +85,7 @@ figcaption {
 }
 
 footer {
-    background-color: rgb(63, 173, 63);
+    background-color: rgb(49, 145, 49);
     color: rgb(178, 238, 148);
     text-align: center;
     padding: 20px;
