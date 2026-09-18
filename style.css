@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: rgb(108, 179, 73);
+    background-color: rgb(123, 184, 93);
 }
 
 main {
@@ -49,7 +49,7 @@ main {
 }
 
 section {
-    background-color: rgb(92, 196, 96);
+    background-color: rgb(46, 173, 50);
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
