@@ -1,13 +1,13 @@
 body {
-    background-color: rgb(76, 182, 76) 24;
-    color: rgb(247, 250, 246);
+    background-color: rgb(11, 15, 25) 24;
+    color: rgb(248, 250, 252);
     font-family: Arial, sans-serif;
     margin: 0,
 }
 
 header {
-    background-color: rgb(88, 143, 60);
-    color: rgb(152, 194, 152);
+    background-color: rgb(15, 23, 42);
+    color: rgb(248, 250, 252);
     text-align: center;
     padding: 30px;
 }
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color: rgb(245, 250, 243);
+    color: rgb(96, 165, 250);
 }
 
 p {
@@ -32,7 +32,7 @@ nav {
 nav a {
     color: rgb(42, 87, 42);
     text-decoration: none;
-    background-color: #f6faf6;
+    background-color: #1E293B;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: rgb(56, 105, 31);
+    background-color: rgb(96, 165, 250);
 }
 
 main {
@@ -49,7 +49,7 @@ main {
 }
 
 section {
-    background-color: rgb(46, 173, 50);
+    background-color: rgb(17, 24, 39);
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
@@ -73,10 +73,10 @@ figcaption {
 
 .card {
 
-    background-color: rgb(48, 105, 48);
+    background-color: rgb(58, 133, 219);
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid #619161;
+    border-left: 6px solid #437be2;
     border-radius: 10px;
 }
 
@@ -86,14 +86,14 @@ figcaption {
 
 footer {
     background-color: rgb(255, 255, 255);
-    color: rgb(90, 134, 67);
+    color: rgb(44, 76, 136);
     text-align: center;
     padding: 20px;
     margin-top: 30px;
 }
 button {
-   background-color: #254e25;
-   color:#83a583;
+   background-color: #859bc4;
+   color:#2f4b97;
    border: none;
    padding: 10x 15x;
    border-radius: 8px;
@@ -101,7 +101,7 @@ button {
 }
 
 button:hover {
-    background-color: #1a441a;
+    background-color: #f2f3f5;
 }
 
 .curtir {
