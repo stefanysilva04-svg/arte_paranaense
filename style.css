@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(11, 15, 25) 24;
+    background-color: rgb(45, 61, 100) 24;
     color: rgb(248, 250, 252);
     font-family: Arial, sans-serif;
     margin: 0,
@@ -76,7 +76,7 @@ figcaption {
     background-color: rgb(58, 133, 219);
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid #437be2;
+    border-left: 6px solid #213761;
     border-radius: 10px;
 }
 
