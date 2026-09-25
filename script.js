@@ -11,5 +11,6 @@ botoesCurtir.forEach(function(botaoCurtir){
             contador.textConten--;
             curtiu = false;
         }
+        
 }
 });
