@@ -1,13 +1,14 @@
 :root{
-    --cor-fundo:var(--cor-fundo)
-    --cor-texto:var(--cor-fundo)
-    --cor-principal:var(--cor-fundo)
-    --cor-secundaria:var(--cor-fundo)
-    --cor-hover:var(--cor-fundo)
-    --cor-card:var(--cor-fundo)
-    --cor-legenda:var(--cor-fundo)
-    --cor-clara:var(--cor-fundo)
-    --cor-rodape:var(--cor-fundo)
+    --cor-fundo: rgb(45, 61, 100) 24;
+    --cor-texto: rgb(113, 206, 231);
+    --cor-principal: rgb(40, 71, 138);
+    --cor-secundaria: rgb(113, 206, 231);
+    --cor-hover: rgb(96, 165, 250);
+    --cor-card: rgb(40, 71, 138);
+    --cor-legenda: rgb(103, 138, 180);
+}
+    --cor-clara:
+    --cor-rodape:
 }
 body {
     
