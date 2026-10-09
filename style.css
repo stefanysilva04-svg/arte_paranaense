@@ -1,13 +1,25 @@
+:root{
+    --cor-fundo:var(--cor-fundo)
+    --cor-texto:var(--cor-fundo)
+    --cor-principal:var(--cor-fundo)
+    --cor-secundaria:var(--cor-fundo)
+    --cor-hover:var(--cor-fundo)
+    --cor-card:var(--cor-fundo)
+    --cor-legenda:var(--cor-fundo)
+    --cor-clara:var(--cor-fundo)
+    --cor-rodape:var(--cor-fundo)
+}
 body {
+    
     background-color: rgb(45, 61, 100) 24;
-    color: rgb(248, 250, 252);
+    color: rgb(240, 236, 223);
     font-family: Arial, sans-serif;
     margin: 0,
 }
 
 header {
     background-color: rgb(40, 71, 138);
-    color: rgb(248, 250, 252);
+    color: rgb(240, 236, 223);
     text-align: center;
     padding: 30px;
 }
