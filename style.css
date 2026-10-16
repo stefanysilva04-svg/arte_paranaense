@@ -4,11 +4,11 @@
     --cor-principal: rgb(116, 145, 241);
     --cor-secundaria: rgb(140, 189, 245);
     --cor-hover: rgb(107, 193, 243);
-    --cor-superficie: rgb(183, 214, 253);
-    --cor-card: rgb(107, 193, 243);
+    --cor-superficie: rgb(160, 199, 247);
+    --cor-card: rgb(57, 174, 241);
     --cor-legenda: rgb(145, 167, 240);
     --cor-clara:  rgb(85, 149, 221) 24;
-    --cor-rodape: rgb(43, 132, 216);
+    --cor-rodape: rgb(141, 198, 252);
 }
 
 body {
