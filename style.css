@@ -1,17 +1,18 @@
-:root{
+:root {
     --cor-fundo: rgb(157, 182, 247) 24;
     --cor-texto: rgb(0, 85, 134);
     --cor-principal: rgb(77, 99, 173);
     --cor-secundaria: rgb(108, 165, 231);
     --cor-hover: rgb(4, 71, 102);
-    --cor-superficie: rgb(96, 165, 250)
+    --cor-superficie: rgb(96, 165, 250);
     --cor-card: rgb(40, 71, 138);
     --cor-legenda: rgb(142, 185, 238);
-    --cor-clara:rgb(37, 72, 148);
+    --cor-clara: rgb(37, 72, 148);
     --cor-rodape: rgb(95, 133, 170);
 }
+
 body {
-    
+
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
     font-family: Arial, sans-serif;
@@ -80,13 +81,13 @@ img {
 figcaption {
     text-align: center;
     font-size: 14px;
-    color:var(--cor-legenda);
+    color: var(--cor-legenda);
     margin-top: 8px;
 }
 
 .card {
 
-    background-color:var(--cor-card);
+    background-color: var(--cor-card);
     padding: 15px;
     margin: 15px 0;
     border-left: 6px solid var(--cor-principal);
@@ -104,13 +105,14 @@ footer {
     padding: 20px;
     margin-top: 30px;
 }
+
 button {
-   background-color: var(--cor-principal);
-   color:var(--cor-clara);
-   border: none;
-   padding: 10x 15x;
-   border-radius: 8px;
-   cursor: pointer;
+    background-color: var(--cor-principal);
+    color: var(--cor-clara);
+    border: none;
+    padding: 10x 15x;
+    border-radius: 8px;
+    cursor: pointer;
 }
 
 button:hover {
@@ -118,7 +120,7 @@ button:hover {
 }
 
 .curtir {
-    display: blobk;
+    display: block;
     width: fit-content;
-    margin: 20px outo;
+    margin: 20px auto;
 }
